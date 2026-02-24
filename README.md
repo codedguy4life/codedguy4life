@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Codedguy4Life+%7C+Developer)
 
+![HTML](https://img.shields.io/badge/HTML-blue?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-white?style=plastic)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
