@@ -19,9 +19,6 @@ My military experience shaped my mindset — discipline, resilience, and executi
 ---
 
 ## 🛠️ Tech Stack 
-- 🌐 HTML  
-- 🎨 CSS
-- 🔧 JavaScript  
 - 🔧 Git & GitHub  
 
 
@@ -51,11 +48,15 @@ My military experience shaped my mindset — discipline, resilience, and executi
 [![Facebook](https://img.shields.io/badge/Facebook-OlaSodiq-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/1APXaSRguV/)  
 [![Instagram](https://img.shields.io/badge/Instagram-obago4real-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/obago4real?igsh=bTQwank5cjl3YXJ1)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-OlaSodiq-green?style=for-the-badge&logo=whatsapp)](https://wa.me/2348144525760)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codedguy4life)
+
+
+
 
 ---
-
+<p align="center">
 ❤️ *Life is short — build something meaningful.*
-
+</p>
 <p align="center">
   🔴 <i>The internet owns the future.</i>
 </p>
