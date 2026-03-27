@@ -3,6 +3,8 @@
 ![HTML](https://img.shields.io/badge/HTML-blue?style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-white?style=plastic)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 ---
 
@@ -12,15 +14,18 @@ I’m on a focused journey into tech, learning by **building in public** and sha
 My military experience shaped my mindset — discipline, resilience, and execution — which I now apply to coding and problem-solving.
 
 🔴 **Tech enthusiast** with a **military background**  
-💻 Currently learning and building with **HTML, CSS, and Git**  
+💻 Currently learning and building with **HTML, CSS, JavaScript, Git & GitHub**  
 🪖  Driven by discipline, consistency, and real progress  
-
 
 ---
 
 ## 🛠️ Tech Stack 
+- 🔧 HTML  
+- 🔧 CSS  
+- 🔧 JavaScript  
 - 🔧 Git & GitHub  
 
+---
 
 ## 🧠 What I’m Working On
 - 🔴 Strengthening core programming skills  
@@ -36,6 +41,7 @@ My military experience shaped my mindset — discipline, resilience, and executi
 - Playing video games  
 - Watching tech tutorials  
 
+---
 
 ## 📈 Goals
 - Become a solid web developer  
@@ -50,10 +56,8 @@ My military experience shaped my mindset — discipline, resilience, and executi
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-OlaSodiq-green?style=for-the-badge&logo=whatsapp)](https://wa.me/2348144525760)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codedguy4life)
 
-
-
-
 ---
+
 <p align="center">
 ❤️ *Life is short — build something meaningful.*
 </p>
