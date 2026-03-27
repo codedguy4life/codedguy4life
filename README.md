@@ -3,6 +3,9 @@
 ![HTML](https://img.shields.io/badge/HTML-blue?style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-white?style=plastic)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
@@ -14,7 +17,7 @@ I’m on a focused journey into tech, learning by **building in public** and sha
 My military experience shaped my mindset — discipline, resilience, and execution — which I now apply to coding and problem-solving.
 
 🔴 **Tech enthusiast** with a **military background**  
-💻 Currently learning and building with **HTML, CSS, JavaScript, Git & GitHub**  
+💻 Currently learning and building with **HTML, CSS, JavaScript, Node.js, Express, MongoDB, Git & GitHub**  
 🪖  Driven by discipline, consistency, and real progress  
 
 ---
@@ -23,6 +26,9 @@ My military experience shaped my mindset — discipline, resilience, and executi
 - 🔧 HTML  
 - 🔧 CSS  
 - 🔧 JavaScript  
+- 🔧 Node.js  
+- 🔧 Express  
+- 🔧 MongoDB  
 - 🔧 Git & GitHub  
 
 ---
@@ -30,6 +36,7 @@ My military experience shaped my mindset — discipline, resilience, and executi
 ## 🧠 What I’m Working On
 - 🔴 Strengthening core programming skills  
 - 🔴 Building real projects  
+- 🔴 Learning backend development (APIs, databases)  
 - 🔴 Learning by doing  
 - 🔴 Sharing progress openly  
 - 🔴 Growing discipline and consistency  
